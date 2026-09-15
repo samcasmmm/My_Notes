@@ -22,7 +22,6 @@ today was holiday
   - [06. Autonomous AI Agents & Tool Calling](./Artificial%20Intelligence/06-autonomous-agents-tool-use.md)
   - [07. Fine-Tuning, Alignment & LLMOps](./Artificial%20Intelligence/07-llmops-fine-tuning-evals.md)
   - [08. AI & GenAI Interview Mastery](./Artificial%20Intelligence/08-ai-interview-mastery.md)
-  - [⚡ Quick Start Overview Guide](./Artificial%20Intelligence/AI_ML_DS.md)
 
 ---
 
@@ -51,13 +50,16 @@ today was holiday
 
 ---
 
-<h2>Computer Science Thoery</h2>
+<h2>Computer Science Theory (2026 Edition)</h2>
 
-- [Operating Systems (OS)](./CS%20Theory/Operating%20Systems%20(OS)/OS.md)
-- [Computer Networks (CN)](./CS%20Theory/Computer%20Netowkrs%20(CN)/CN.md)
-- [Database Management Systems (DBMS)](./CS%20Theory/Database%20Management%20Systems%20(DBMS)/DBMS.md)
-- [Software Conceptual Design](./CS%20Theory/Softare%20Conceptual%20Design/SCD.md)
-- [Software Engineering](./CS%20Theory/Software%20Engineering/SE.md)
+- [💻 Master CS Theory Index](./CS%20Theory/README.md)
+  - [01. Operating Systems (OS)](./CS%20Theory/01-operating-systems.md)
+  - [02. Database Management Systems (DBMS)](./CS%20Theory/02-database-management-systems.md)
+  - [03. Computer Networks (CN)](./CS%20Theory/03-computer-networks.md)
+  - [04. Distributed Systems & Cloud](./CS%20Theory/04-distributed-systems.md)
+  - [05. Software Engineering & Object-Oriented Design](./CS%20Theory/05-software-engineering-design.md)
+  - [06. System Design Blueprints](./CS%20Theory/06-system-design-blueprints.md)
+  - [07. CS Theory Interview Mastery](./CS%20Theory/07-cs-theory-interview-mastery.md)
 
 ---
 
