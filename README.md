@@ -98,7 +98,7 @@ today was holiday
 	</ul>
 	<li>Artificial Intelligence</li>
 	<ol>
-		<li><a href="/Artificial Intelligence/AI_ML_DS.md">AI, ML & Data Science Fundamentals</a></li>
+		<li><a href="/Artificial Intelligence/08-ai-interview-mastery.md">AI & GenAI Interview Mastery</a></li>
 	</ol>
 	<li>Computer Science Thoery</li>
 	<ol>
