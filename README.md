@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Notes By Shaurya</h1>
+<h1 align="center">Tech & Interview Notes</h1>
 
 today was holiday
 
@@ -98,10 +98,10 @@ today was holiday
 	</ol>
 	<li>Projects</li>
 	<ol>
-		<li><a href="https://github.com/ShauryaChawan/Recipe-Finder">Recipe Finder</a></li>
-		<li><a href="https://github.com/ShauryaChawan/Home-Town">Home Town</a></li>
-		<li><a href="https://github.com/ShauryaChawan/Chat-Application">Chat Application</a></li>
-		<li><a href="https://github.com/ShauryaChawan/Fiverr-Clone">Fiverr.com Clone</a></li>
+		<li><a href="https://github.com/samcasmmm/Recipe-Finder">Recipe Finder</a></li>
+		<li><a href="https://github.com/samcasmmm/Home-Town">Home Town</a></li>
+		<li><a href="https://github.com/samcasmmm/Chat-Application">Chat Application</a></li>
+		<li><a href="https://github.com/samcasmmm/Fiverr-Clone">Fiverr.com Clone</a></li>
 		<li><a href="https://lucky-treacle-28f419.netlify.app/">Nexus Traders</a></li>
 		<li>Booking.com</li>
 	</ol>

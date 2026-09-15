@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Notes By Shaurya - Operating Systems</h1>
+<h1 align="center">Operating Systems - Interview Questions</h1>
 <hr />
 
 <h2> Table of Content</h2>
