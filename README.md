@@ -11,7 +11,19 @@ today was holiday
 
 ---
 
-<h2>Artificial Intelligence</h2>
+<h2>Artificial Intelligence (2026 Edition)</h2>
+
+- [🤖 Master AI Curriculum Index](./Artificial%20Intelligence/README.md)
+  - [01. Math Foundations & AI Basics](./Artificial%20Intelligence/01-math-foundations-ai-basics.md)
+  - [02. Machine Learning Core](./Artificial%20Intelligence/02-machine-learning-core.md)
+  - [03. Deep Learning & Neural Networks](./Artificial%20Intelligence/03-deep-learning-neural-networks.md)
+  - [04. LLMs, Transformers & Generative AI](./Artificial%20Intelligence/04-llms-transformers-genai.md)
+  - [05. Modern RAG & Vector Databases](./Artificial%20Intelligence/05-modern-rag-vector-databases.md)
+  - [06. Autonomous AI Agents & Tool Calling](./Artificial%20Intelligence/06-autonomous-agents-tool-use.md)
+  - [07. Fine-Tuning, Alignment & LLMOps](./Artificial%20Intelligence/07-llmops-fine-tuning-evals.md)
+  - [08. AI & GenAI Interview Mastery](./Artificial%20Intelligence/08-ai-interview-mastery.md)
+  - [⚡ Quick Start Overview Guide](./Artificial%20Intelligence/AI_ML_DS.md)
+
 ---
 
 <h2>Software Development</h2>
@@ -83,6 +95,9 @@ today was holiday
 		</ol>
 	</ul>
 	<li>Artificial Intelligence</li>
+	<ol>
+		<li><a href="/Artificial Intelligence/AI_ML_DS.md">AI, ML & Data Science Fundamentals</a></li>
+	</ol>
 	<li>Computer Science Thoery</li>
 	<ol>
 		<li><a href="/Interview/CS Theory/CN-Interview.md">Computer Networks (CN)</a></li>
